@@ -1,2 +1,3 @@
-# CityInfo
-通过IP得到城市的名称、天气等信息
+# CityInfo / PHP
+
+得到自己的IP、运营商，所在城市及天气
